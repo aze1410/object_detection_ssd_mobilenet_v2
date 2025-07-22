@@ -67,7 +67,7 @@ flutter:
     - assets/custom_ssd_mobilenet_v2_fpn_lite_320x320.tflite
     - assets/labels.txt
     - assets/PPE-Detection.tflite
-    - assets/best_float32.tflite
+    - assets/best_float322.tflite
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
